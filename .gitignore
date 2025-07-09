@@ -1,0 +1,21 @@
+# Environment file (contient des mots de passe)
+.env
+
+# Docker volumes data
+data/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
